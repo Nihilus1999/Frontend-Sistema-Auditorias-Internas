@@ -24,6 +24,13 @@ Cuenta con módulos especializados para la **gestión de riesgos, programas, mat
 
 ---
 
+---
+## ⚙️ Variables de entorno
+
+Crea un archivo `.env` a partir de `.env.example`:
+
+---
+
 ## ⚙️ Tecnologías principales
 
 - ⚛️ **React 19** — Librería principal para la interfaz de usuario  
@@ -40,7 +47,7 @@ Cuenta con módulos especializados para la **gestión de riesgos, programas, mat
 
 ---
 
-## 🛠️ Instalación
+## 🛠️ Instalación para desarrollo
 
 1. **Instalar las dependecias necesarias**
 
