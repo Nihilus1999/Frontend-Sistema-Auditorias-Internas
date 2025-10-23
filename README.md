@@ -9,7 +9,7 @@ Permite gestionar programas, riesgos, hallazgos y reportes de forma digital, gar
 
 👉 [Acceder al Frontend de producción](https://zealous-smoke-004e8600f.6.azurestaticapps.net/)
 
-Usen el siguiente usuario para ver el contenido:
+Utilicen el siguiente usuario para hacer login en la aplicación:
 
 Usuario: ideprueba17.
 
