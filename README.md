@@ -23,8 +23,6 @@ El **Sistema de Auditoría Interna de Consultores JDG** centraliza las operacion
 Cuenta con módulos especializados para la **gestión de riesgos, programas, matrices, informes y resultados**, todo desarrollado con tecnologías modernas para un alto rendimiento y facilidad de mantenimiento.
 
 ---
-
----
 ## ⚙️ Variables de entorno
 
 Crea un archivo `.env` a partir de `.env.example`:
