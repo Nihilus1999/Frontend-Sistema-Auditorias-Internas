@@ -58,9 +58,3 @@ npm install
 ```
 npm run frontend
 ```
-
-## 🧠 Información Adicional
-
-Para saber sobre la isEs necesario Consultar el repositorio de mi compañero asdrubal Asencio para conocer sobre la instalacion del Backend
-
-Link de su perfil: https://github.com/asdruprojects
